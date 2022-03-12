@@ -12,6 +12,8 @@
 
 ❤ Can't hide my passion for Science-Fiction and Rafa
 
+[My resume](https://agamemnon94.github.io/)
+
  [LinkedIn Profile](https://www.linkedin.com/in/alexandre-braga-287368231/)
 
 🔗 I'm looking forward to work together ! Send me a [email](mailto:alexandrebraga@free.fr) to get in touch
