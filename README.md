@@ -1,4 +1,4 @@
-# Finaly, you find me ! 👋
+# Finally, you find me ! 👋
 
 ### 👨 I'm **_Alexandre_**, a freshly graduated full-stack developer student from La Passerelle (January 2022).
 
