@@ -12,7 +12,7 @@
 
 ❤ Can't hide my passion for Science-Fiction and Rafa
 
-[My resume](https://agamemnon94.github.io/)
+[My resume](http://alexandre-braga.fr/)
 
  [LinkedIn Profile](https://www.linkedin.com/in/alexandre-braga-287368231/)
 
