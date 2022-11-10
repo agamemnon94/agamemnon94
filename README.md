@@ -22,11 +22,11 @@
 
 ## 📼 My last release is on [youtube](https://youtu.be/M8_9rQauwwk)
 
-![2022-10-29 CyranoTennisClub](https://user-images.githubusercontent.com/94798272/201012644-b876323e-9142-425f-8aaa-1c9b84233e9d.png)
+![2022-10-29 CyranoTennisClub](https://github.com/agamemnon94/imagesGitHub/blob/master/2022_10_29_CyranoTennisClub.png?raw=true)
 
 ## 📼 My very first release is on [youtube](https://youtu.be/UXOAyfDKOoY)
     
-![Premier site CV](https://user-images.githubusercontent.com/94798272/156293987-956ffd61-efbd-44a2-b78f-a09be51f000c.PNG)
+![Premier site CV](https://github.com/agamemnon94/imagesGitHub/blob/master/Premier_site_CV.PNG?raw=true)
 
 <!--
 **agamemnon94/agamemnon94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
