@@ -20,6 +20,8 @@
 
 📼 My last release is on [youtube](https://youtu.be/M8_9rQauwwk)
 
+![Premier site CV](https://user-images.githubusercontent.com/94798272/156293987-956ffd61-efbd-44a2-b78f-a09be51f000c.PNG)
+
 📼 My very first release is on [youtube](https://youtu.be/UXOAyfDKOoY)
     
 ![Premier site CV](https://user-images.githubusercontent.com/94798272/156293987-956ffd61-efbd-44a2-b78f-a09be51f000c.PNG)
