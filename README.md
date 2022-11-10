@@ -27,7 +27,7 @@
 
 ## 📼 My very first release is on [youtube](https://youtu.be/UXOAyfDKOoY)
     
-![Premier site CV](https://github.com/agamemnon94/imagesGitHub/blob/master/Premier_site_CV.PNG?raw=true)
+![Premier site CV](https://github.com/agamemnon94/imagesGitHub/blob/master/clouds1920.gif?raw=true)
 
 <!--
 **agamemnon94/agamemnon94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
