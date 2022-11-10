@@ -20,7 +20,7 @@
 
 📼 My last release is on [youtube](https://youtu.be/M8_9rQauwwk)
 
-![Cyrano Tennis Club](https://user-images.githubusercontent.com/94798272/156293987-956ffd61-efbd-44a2-b78f-a09be51f000c.PNG)
+![2022-10-29 CyranoTennisClub](https://user-images.githubusercontent.com/94798272/201012644-b876323e-9142-425f-8aaa-1c9b84233e9d.png)
 
 📼 My very first release is on [youtube](https://youtu.be/UXOAyfDKOoY)
     
