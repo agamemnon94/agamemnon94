@@ -1,6 +1,6 @@
 # Finally, you find me ! 👋
 
-### ![iamwho](https://user-images.githubusercontent.com/94798272/201013075-399e698b-ca60-4598-9e90-000691035694.png) I'm **_Alexandre_**, a freshly graduated full-stack developer student from La Passerelle (January 2022).
+### 👨 I'm **_Alexandre_**, a freshly graduated full-stack developer student from La Passerelle (January 2022).
 
 ◽ Programming languages :  HTML, CSS, SCSS, Javascript, SQL, PHP
 
