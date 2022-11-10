@@ -1,5 +1,7 @@
 # Finally, you find me ! 👋
 
+![Mon Image](imagesGitHub/iamwho.png)
+
 ### 👨 I'm **_Alexandre_**, a freshly graduated full-stack developer student from Philiance (November 2022).
 
 ◽ Programming languages :  HTML5, CSS3, SCSS, Javascript, SQL, PHP8, Twig
