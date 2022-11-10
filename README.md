@@ -1,6 +1,6 @@
 # Finally, you find me ! 👋
 
-![MonImage](imagesGitHub/iamwho.png)
+![](imagesGitHub/iamwho.png)
 
 ### 👨 I'm **_Alexandre_**, a freshly graduated full-stack developer student from Philiance (November 2022).
 
