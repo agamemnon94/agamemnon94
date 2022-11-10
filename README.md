@@ -1,6 +1,6 @@
 # Finally, you find me ! 👋
 
-### 👨 I'm **_Alexandre_**, a freshly graduated full-stack developer student from La Passerelle (January 2022).
+### 👨 I'm **_Alexandre_**, a freshly graduated full-stack developer student from Philiance (November 2022).
 
 ◽ Programming languages :  HTML, CSS, SCSS, Javascript, SQL, PHP
 
