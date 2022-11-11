@@ -12,7 +12,7 @@
 
 🗼 I'm based near Paris Fr
 
-❤ Can't hide my passion for Science-Fiction and Rafa
+❤ Can't hide my passion for sciences, Science-Fiction and Rafa
 
 [My resume](http://alexandre-braga.fr/)
 
