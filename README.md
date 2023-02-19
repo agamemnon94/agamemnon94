@@ -6,7 +6,7 @@
 
 ◽ Programming languages :  HTML5, CSS3, SCSS, Javascript, SQL, PHP8, Twig
 
-◽ Libraries : React, Symfony6
+◽ Libraries : ReactJs, Symfony6
 
 ◽ Languages :  French (native), English B2, Portuguese
 
