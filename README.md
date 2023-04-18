@@ -23,9 +23,9 @@
 ## 📼 My last release is on [youtube](https://youtu.be/M8_9rQauwwk)
 ## Or here ➡ [Cyrano Tennis Club](https://cyranotennisclub.alexandre-braga.fr)
 
-<p align="center">
+<!-- <p align="center"> -->
 ![2022-10-29 CyranoTennisClub](https://github.com/agamemnon94/imagesGitHub/blob/master/ctc.webp?raw=true)
- </p>
+<!--  </p> -->
 
 ## 📼 My very first release is on [youtube](https://youtu.be/UXOAyfDKOoY)
     
