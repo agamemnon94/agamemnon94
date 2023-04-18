@@ -24,7 +24,7 @@
 ## Or here ➡ [Cyrano Tennis Club](https://cyranotennisclub.alexandre-braga.fr)
 
 <p align="center">
-<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/ctc.webp" />
+<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/ctc.webp?raw=true" />
 </p>
 
 ## 📼 My very first release is on [youtube](https://youtu.be/UXOAyfDKOoY)
