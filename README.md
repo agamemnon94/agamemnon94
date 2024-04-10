@@ -33,7 +33,7 @@
 <img src="https://github.com/agamemnon94/imagesGitHub/blob/master/ctc.webp?raw=true" />
 </p>
 
-## 📼 My very first release is on [youtube](https://youtu.be/UXOAyfDKOoY)
+## 📼 My very first release is on [youtube](https://youtu.be/_fsyHt52csI) 
     
 ![Premier site CV](https://github.com/agamemnon94/imagesGitHub/blob/master/clouds_header.webp?raw=true)
 
