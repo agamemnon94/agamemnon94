@@ -20,8 +20,7 @@
 
 🔗 I'm looking forward to work together ! Send me a [email](mailto:contact@alexandre-braga.fr) to get in touch
 
-## My online portfolio ⬇️
-## 📼 Here => [portfolio](https://portfolio.alexandre-braga.fr)
+## My online portfolio [portfolio](https://portfolio.alexandre-braga.fr)
 
 <p align="center">
 <img src="https://github.com/agamemnon94/imagesGitHub/blob/master/AlexandreBraga-Portfolio.gif?raw=true" />
