@@ -2,9 +2,9 @@
 
 <!-- ![Me](https://github.com/agamemnon94/imagesGitHub/blob/master/iamwho250.png?raw=true) -->
 
-### 👨 I'm **_Alexandre_**, a freshly graduated web developer student from Philiance (November 2022).
+### 👨 I'm **_Alexandre_**, a full stack web developer.
 
-◽ Programming languages :  HTML5, CSS3, SCSS, Javascript, SQL, PHP8, Twig
+◽ Programming languages :  HTML5, CSS3, SCSS, Javascript, SQL, Doctrine ORM, PHP8, Twig 
 
 ◽ Libraries : React, Symfony6/7
 
