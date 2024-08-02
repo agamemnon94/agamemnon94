@@ -23,7 +23,7 @@
 ## My online [portfolio](https://portfolio.alexandre-braga.fr)
 
 <p align="center">
-<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/AlexandreBraga-Portfolio.gif?raw=true" />
+<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/AlexandreBraga-Portfolio.gif?raw=true" width="600px"/>
 </p>
 
 ## New "MSH - My Steel Horse" project, soon online ⬇️
