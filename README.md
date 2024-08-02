@@ -23,21 +23,21 @@
 ## My online [portfolio](https://portfolio.alexandre-braga.fr)
 
 <p align="center">
-<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/AlexandreBraga-Portfolio.gif?raw=true" max-width="1200px"/>
+<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/AlexandreBraga-Portfolio.gif?raw=true" width="1200px"/>
 </p>
 
 ## New "MSH - My Steel Horse" project, soon online ⬇️
 ## 📼 Here => [youtube](https://youtu.be/VnG_q-P5734)
 
 <p align="center">
-<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/MSH-Accueil.gif?raw=true" max-width="1200px"/>
+<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/MSH-Accueil.gif?raw=true" width="1200px"/>
 </p>
 
 ## 📼 My last release is on [youtube](https://youtu.be/39dISBOCLWE)
 ## Or here ➡ [Cyrano Tennis Club](https://cyranotennisclub.alexandre-braga.fr)
 
 <p align="center">
-<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/ctc.webp?raw=true" max-width="1200px"/>
+<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/ctc.webp?raw=true" width="1200px"/>
 </p>
 
 ## 📼 My very first release is on [youtube](https://youtu.be/_fsyHt52csI) 
