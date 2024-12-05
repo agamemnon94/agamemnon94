@@ -4,7 +4,7 @@
 
 ### 👨 I'm **_Alexandre_**, a full stack web developer.
 
-◽ Programming languages :  HTML5, CSS3, SCSS, Javascript, SQL, Doctrine ORM, PHP8, Twig 
+◽ Programming languages :  HTML5, CSS3, SCSS, Javascript, SQL, Doctrine ORM, PHP, Twig 
 
 ◽ Libraries : React, Symfony
 
