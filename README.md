@@ -23,7 +23,7 @@
 ## My very last release : [Le Dressing de renaud et rose](https://ledressingderenaudetrose.fr/)
 
 <p align="center">
-<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/Le_Dressing_de_Renaud_et_Rose.gif?raw=true" width="1200px"/>
+<img src="https://github.com/agamemnon94/imagesGitHub/blob/master/AlexandreBraga-Portfolio.gif?raw=true" width="1200px"/>
 </p>
 
 ## My online [portfolio](https://portfolio.alexandre-braga.fr)
