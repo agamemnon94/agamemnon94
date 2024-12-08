@@ -20,7 +20,7 @@
 
 🔗 I'm looking forward to work together ! Send me a [email](mailto:contact@alexandre-braga.fr) to get in touch
 
-## My last release [Le Dressing de renaud et rose](https://ledressingderenaudetrose.fr/)
+## My last release : [Le Dressing de renaud et rose](https://ledressingderenaudetrose.fr/)
 
 <p align="center">
 <img src="https://github.com/agamemnon94/imagesGitHub/blob/master/Le_Dressing_de_Renaud_et_Rose.gif?raw=true" width="1200px"/>
